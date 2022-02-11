@@ -1,0 +1,38 @@
+                                 Ú**********¿
+                                 ³ D‚mineur ³
+                                 À**********Ù
+                               par Luc ROUSSEAU
+
+
+   En temps de guerre, il n'est bon pas ˆtre soldat. Vous allez le ressentir
+personnellement, car votre sergent vous envoye accomplir la mission suivante:
+il vous faut frayer un chemin s–r … travers un terrain min‚ par l'ennemi,
+afin de rendre possible le transport de vos troupes.
+
+   Le terrain est une grille de 30 * 15 = 450 cases. 100 mines ont ‚t‚
+cach‚es dans 100 cases diff‚rentes (densit‚ de 0,222 mine par case).
+Vous commencez la partie dans l'angle sup‚rieur gauche (non min‚, pour que
+vous puissiez commencer) et devez arriver dans l'angle inf‚rieur droit (non
+min‚ ‚galement). Vous vous d‚placez, … l'aide du pav‚ num‚rique, d'une case
+… chaque fois:
+                        7  8  9
+                         \ ³ /
+                        4ÄÄÅÄÄ6
+                         / ³ \
+                        1  2  3
+
+Vous disposez de 5 grenades (pas plus) dont vous pouvez (c'est recommand‚)
+vous servir pour d‚miner … coup s–r une case situ‚e … c“t‚ de vous. Il
+suffit de composer les touches du pav‚ num‚rique avec <Maj.>: par exemple,
+<Maj.>+<6> lance une grenade sur la case … votre droite (Si la case en
+question n'existe pas ou a ‚t‚ visit‚e, vous gaspillez bˆtement un grenade).
+
+Sont indiqu‚s en haut de l'‚cran:
+- le nombre de mines se trouvant imm‚diatement … c“t‚ de vous.
+- le nombre de grenades qu'il vous reste.
+- votre score (le nombre de case visit‚es sans l'aide des grenades)
+- votre temps (et oui, vous ˆtes chronom‚tr‚!)
+- votre vitesse: rapport de votre score et de votre temps.
+
+Si vous arrivez … bon port, selon votre vitesse, vous aurez peut-ˆtre l'hon-
+neur d'inscrire votre nom sur la liste des 10 d‚mineurs les plus efficaces!
